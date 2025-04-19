@@ -19,4 +19,4 @@
 ---
 
 **Screenshots**
-![screenshots](C:\Users\Ranjan Mishra\Desktop\3inOne\screenshots\img1.png)
+![screenshots](./screenshots/img1.png)
