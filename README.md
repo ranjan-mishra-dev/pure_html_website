@@ -20,5 +20,5 @@
 
 **Screenshots**
 ![screenshots](./screenshots/img1.png)
-<img src="./screenshots/img1.png" width="400" height="200" />
+<img src="./screenshots/img1.png" width="800" height="600" />
 
