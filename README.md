@@ -19,6 +19,10 @@
 ---
 
 **Screenshots**
-![screenshots](./screenshots/img1.png)
 <img src="./screenshots/img1.png" width="800" height="600" />
+<img src="./screenshots/img2.png" width="800" height="600" />
+<img src="./screenshots/img3.png" width="800" height="600" />
+<img src="./screenshots/img4.png" width="800" height="600" />
+<img src="./screenshots/img5.png" width="800" height="600" />
+<img src="./screenshots/img6.png" width="800" height="600" />
 
